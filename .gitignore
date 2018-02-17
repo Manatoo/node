@@ -1,0 +1,29 @@
+node_modules
+coverage
+
+.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+# temp save files
+*~
+*.swp
+*.swo
+
+# Sublime
+*.cache
+
+Package Control.sublime-settings
+
+# SublimeText project files
+*.sublime-workspace
+/*.sublime-project
+sftp-config*.json
+Package Control.last-run
+Package Control.system-ca-bundle
+SublimeREPLHistory/__defaults__
+SublimeREPLHistory/__del_rows__
