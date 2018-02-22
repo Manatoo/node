@@ -2,7 +2,7 @@
   "name": "manatoo",
   "version": "0.0.1",
   "description": "Node bindings for the Manatoo api",
-  "homepage": "https://docs.manatoo.io/?javascript",
+  "homepage": "https://github.com/Manatoo/node",
   "author": {
     "name": "Derek Zhou",
     "email": "developer@manatoo.io",
