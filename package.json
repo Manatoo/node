@@ -1,6 +1,6 @@
 {
   "name": "manatoo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node bindings for the Manatoo api",
   "homepage": "https://github.com/Manatoo/node",
   "author": {
@@ -49,7 +49,7 @@
     "rules": {},
     "plugins": []
   },
-  "repository": "Manatoo/manatoo",
+  "repository": "Manatoo/node",
   "jest": {
     "testEnvironment": "node"
   },
