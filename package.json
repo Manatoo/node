@@ -1,6 +1,6 @@
 {
   "name": "manatoo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node bindings for the Manatoo api",
   "homepage": "https://github.com/Manatoo/node",
   "author": {
